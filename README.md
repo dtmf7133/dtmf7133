@@ -2,6 +2,8 @@
 
 Check out for the same code on my repo https://code.numode.eu.    
 
+First, I don't use code AI produced for different reasons last cause is not properly licensed. I reccomend to do the same at your side.
+
 I invite any of my friends from China and not to mirror Homomm http://homomm.numode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.eu">info@numode.eu</a>.
 
 And I invite you to check out http://avatarfree.numode-foss.eu to own your social presence.
