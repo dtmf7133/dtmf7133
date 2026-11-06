@@ -1,6 +1,6 @@
 ### Hello, and welcome! 👋 (This is Dan..)  
 
-Check out for the same code on my repo https://code.numode.eu.    
+Check out for the same code on my repo https://repo.numode.eu.    
 
 First, I don't use code AI produced for different reasons last cause is not properly licensed. I reccomend to do the same at your side.
 
