@@ -4,7 +4,7 @@ Check out for the same code on my repo https://repo.numode.eu.
 
 First, I don't use code AI produced for different reasons last cause is not properly licensed. I reccomend to do the same at your side.
 
-I invite any of my friends from China and not to mirror Homomm http://homomm.numode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.eu">info@numode.eu</a>.
+I invite any of my friends from China and not to mirror Homomm http://homomm.numode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.biz">info@numode.biz</a>.
 
 And I invite you to check out http://avatarfree.numode-foss.eu to own your social presence.
 
@@ -20,16 +20,16 @@ Enjoy!
 because I'm tempted to think that (at 2024/07) it consumes less than the mono mode.
   
 <div style="font-weight:900;color:blue;background-color:lightgreen;">
-<a href="https://hetzner.cloud/?ref=mw7jFDXrioJE" style="font-weight:900" target="_blank"><b>And go with the cloud power!</b></a><br>
+<a href="https://hetzner.com/?ref=mw7jFDXrioJE" style="font-weight:900" target="_blank"><b>And go with the cloud power!</b></a><br>
 </div>	
 
 <br>
 
 Please contact us via email to have full access to Order Dude or Homomm live demo.   
 
-For any need of software additions, plugins and improvements or to request a CD-ROM with the full software collection of NuMode please write to <a href="mailto:info@numode.eu">info@numode.eu</a>.   
+For any need of software additions, plugins and improvements or to request a CD-ROM with the full software collection of NuMode please write to <a href="mailto:info@numode.biz">info@numode.biz</a>.   
 
-To help please donate by clicking <a href="https://pay.numode.eu">https://pay.numode.eu</a> and filling the form.   
+To help please donate by clicking <a href="https://pay.numode.biz">https://pay.numode.biz</a> and filling the form.   
 
 Finally you can buy the NuMode mug here: <a href="https://shop.numode.eu">https://shop.numode.eu</a>.   
 
