@@ -4,9 +4,9 @@ Check out for the same code on my repo https://repo.numode.eu.
 
 First, I don't use code AI produced for different reasons last cause is not properly licensed. I reccomend to do the same at your side.
 
-I invite any of my friends from China and not to mirror Homomm http://homomm.numode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.biz">info@numode.biz</a>.
+I invite any of my friends from China and not to mirror Homomm http://homomm.foss.numode.biz in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.biz">info@numode.biz</a>.
 
-And I invite you to check out http://avatarfree.numode-foss.eu to own your social presence.
+And I invite you to check out http://avatarfree.foss.numode.biz to own your social presence.
 
 <b>Alert #1</b>: In old Mac it is a tough time to browse LetsEncrypt websites. Here I explain you how to deal with it.  
 How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old versions)  
